@@ -32,5 +32,5 @@ Projeto desenvolvido em **Flutter**, utilizando:
 
 ## Copyright E Licença
 
-Copyright 2021 Johnny Freire.
+Copyright 2021 Isaac Lamego.
 
